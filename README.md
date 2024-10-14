@@ -46,7 +46,7 @@ Feel free to fork this repository, raise issues, or submit pull requests. Contri
 
 ## Contact
 For more information, please contact:
-**Mohamed Saleh** - www.linkedin.com/in/mohamed-saleh-m1791
+**Linkedin** - www.linkedin.com/in/mohamed-saleh-m1791
 
-###Email: mohamedsaleh1791@gmail.com
+**Email**: mohamedsaleh1791@gmail.com
 
